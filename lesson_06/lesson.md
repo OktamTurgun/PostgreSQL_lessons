@@ -211,4 +211,4 @@ SELECT * FROM users LIMIT 1;
 ---
 
 ## 📌 Keyingi dars:
-[Lesson 07 — WHERE va FILTERING](../lesson_07/lesson.md) 
+[Lesson 07 — Ma'lumotlarni kiritish](../lesson_07/lesson.md) 
