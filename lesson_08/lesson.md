@@ -108,4 +108,4 @@ ALTER TABLE users ALTER COLUMN is_active SET DEFAULT FALSE;
 ---
 
 ## 📌 Keyingi dars:
-[Lesson 09 — Maʼlumotlarni yangilash va oʼchirish](../lesson_09/lesson.md) 
+[Lesson 09 — SELECT ga kirish (Intro to SELECT)](../lesson_09/lesson.md) 
