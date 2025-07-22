@@ -26,22 +26,36 @@ Har bir dars alohida papkada joylashgan va ikki qismdan iborat:
   *Jadval, ustun, qator, primary key va asosiy SQL buyruqlari bilan tanishuv.*
 - [Lesson 04 — Maʼlumotlar bazasini yaratish](lesson_04/lesson.md)  
   *Yangi maʼlumotlar bazasi yaratish va asosiy amallar.*
-- [Lesson 05 — SELECT operatori](lesson_05/lesson.md)  
-  *Maʼlumotlarni o'qish va ko'rish uchun SELECT buyrug'i.*
-- [Lesson 06 — INSERT operatori](lesson_06/lesson.md)  
-  *Jadvallarga yangi maʼlumotlar qo'shish.*
-- [Lesson 07 — UPDATE operatori](lesson_07/lesson.md)  
-  *Mavjud maʼlumotlarni yangilash va o'zgartirish.*
-- [Lesson 08 — DELETE operatori](lesson_08/lesson.md)  
-  *Maʼlumotlarni o'chirish va boshqarish.*
-- [Lesson 09 — WHERE operatori](lesson_09/lesson.md)  
-  *Shartli so'rovlar va filtrlash.*
-- [Lesson 10 — Comparison operatorlari](lesson_10/lesson.md)  
-  *Taqqoslash operatorlari (=, !=, >, <, >=, <=).*
-- [Lesson 11 — AND, OR, NOT operatorlari](lesson_11/lesson.md)  
-  *Mantiqiy operatorlar bilan murakkab shartlar.*
+- [Lesson 05 — Maʼlumot turlari](lesson_05/lesson.md)  
+  *PostgreSQL'dagi asosiy maʼlumot turlari va ularni to'g'ri ishlatish.*
+- [Lesson 06 — Foydali buyruqlar](lesson_06/lesson.md)  
+  *psql va SQL buyruqlari, jadval va baza boshqaruvi.*
+- [Lesson 07 — Maʼlumotlarni kiritish (INSERT)](lesson_07/lesson.md)  
+  *INSERT operatori va maʼlumot kiritish usullari.*
+- [Lesson 08 — NULL va DEFAULT qiymatlar](lesson_08/lesson.md)  
+  *NULL va DEFAULT qiymatlar, ularni ishlatish va boshqarish.*
+- [Lesson 09 — SELECTga kirish (Intro to SELECT)](lesson_09/lesson.md)  
+  *SELECT operatori, ustunlar, WHERE, ORDER BY, LIMIT, filtrlash va tartiblash.*
+- [Lesson 10 — WHERE va filtratsiya](lesson_10/lesson.md)  
+  *WHERE operatori, shartli so'rovlar va filtrlash.*
+- [Lesson 11 — ORDER BY va LIMIT](lesson_11/lesson.md)  
+  *Natijalarni tartiblash va cheklash.*
 - [Lesson 12 — LIKE, ILIKE, BETWEEN, IN, IS NULL](lesson_12/lesson.md)  
-  *Qo'shimcha operatorlar bilan ishlash.*
+  *Qo'shimcha operatorlar va pattern matching.*
+- [Lesson 13 — ORDER BY, LIMIT, OFFSET va natijalarni tartiblash](lesson_13/lesson.md)  
+  *So'rov natijalarini tartiblash, cheklash va sahifalash (pagination).* 
+- [Lesson 14 — Aggregate funksiyalar va GROUP BY](lesson_14/lesson.md)  
+  *COUNT, SUM, AVG, MAX, MIN, GROUP BY, HAVING va statistik so'rovlar.*
+- [Lesson 15 — JOIN operatorlari va jadvallarni birlashtirish](lesson_15/lesson.md)  
+  *INNER, LEFT, RIGHT, FULL, CROSS JOIN va murakkab birlashtirishlar.*
+- [Lesson 16 — DELETE operatori: Ma'lumotlarni o'chirish](lesson_16/lesson.md)  
+  *DELETE operatori, xavfsiz o'chirish, CASCADE va ehtiyot choralari.*
+- [Lesson 17 — UPDATE operatori: Ma'lumotlarni yangilash](lesson_17/lesson.md)  
+  *UPDATE operatori, RETURNING, tranzaksiya va xavfsiz yangilash.*
+- [Lesson 18 — Jadvallarni to'g'ri dizayn qilish (mukammal)](lesson_18/lesson.md)  
+  *Jadval dizayni, normalizatsiya, relationshiplar, denormalizatsiya, ALTER TABLE, CASCADE, ER-diagram va best practices.*
+- [Lesson 19 — Transactionlar va xavfsiz o'zgartirishlar](lesson_19/lesson.md)  
+  *Transactionlar (BEGIN, COMMIT, ROLLBACK), isolation levels, xavfsiz o'zgartirishlar va amaliy misollar.*
 
 > **Eslatma:** Har bir darsda amaliy mashqlar uchun `practice.md` fayli mavjud.
 
@@ -63,6 +77,13 @@ Har bir dars alohida papkada joylashgan va ikki qismdan iborat:
 - ✅ Null handling — IS NULL
 
 ## 🤝 Hissa qo'shish
+
+Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
+
+---
+
+**Loyiha muallifi:**  
+[OktamTurgun](https://github.com/OktamTurgun)
 
 Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
 
