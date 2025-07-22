@@ -85,4 +85,4 @@ ROLLBACK; -- yoki COMMIT;
 ---
 
 ## 📌 Keyingi dars:
-[Lesson 18 — Jadvallar dizayni va indekslar](../lesson_18/lesson.md) 
+[Lesson 18 — Jadvallar dizayni](../lesson_18/lesson.md) 
