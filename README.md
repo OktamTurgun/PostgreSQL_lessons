@@ -84,3 +84,10 @@ Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
 
 **Loyiha muallifi:**  
 [OktamTurgun](https://github.com/OktamTurgun)
+
+Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
+
+---
+
+**Loyiha muallifi:**  
+[OktamTurgun](https://github.com/OktamTurgun)
