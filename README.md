@@ -56,6 +56,16 @@ Har bir dars alohida papkada joylashgan va ikki qismdan iborat:
   *Jadval dizayni, normalizatsiya, relationshiplar, denormalizatsiya, ALTER TABLE, CASCADE, ER-diagram va best practices.*
 - [Lesson 19 — Transactionlar va xavfsiz o'zgartirishlar](lesson_19/lesson.md)  
   *Transactionlar (BEGIN, COMMIT, ROLLBACK), isolation levels, xavfsiz o'zgartirishlar va amaliy misollar.*
+- [Lesson 20 — Subquery va nested so'rovlar](lesson_20/lesson.md)  
+  *Subquery tushunchasi, turlari, IN, EXISTS, ALL, ANY operatorlari va murakkab so'rovlar.*
+- [Lesson 21 — View va virtual jadvallar](lesson_21/lesson.md)  
+  *View tushunchasi, yaratish, ishlatish, JOIN bilan view va amaliyotda qo'llash.*
+- [Lesson 22 — Stored procedure va functionlar](lesson_22/lesson.md)  
+  *Stored procedure va functionlar tushunchasi, yaratish, ishlatish va PL/pgSQL bilan ishlash.*
+- [Lesson 23 — Triggerlar va ularning amaliyoti](lesson_23/lesson.md)  
+  *Triggerlar tushunchasi, turlari, yaratish, log yuritish va avtomatik operatsiyalar.*
+- [Lesson 24 — Transaction va ACID xususiyatlari](lesson_24/lesson.md)  
+  *Transactionlar, ACID xususiyatlari, SAVEPOINT, isolation levels va ma'lumotlar tozaligi.*
 
 > **Eslatma:** Har bir darsda amaliy mashqlar uchun `practice.md` fayli mavjud.
 
@@ -76,14 +86,14 @@ Har bir dars alohida papkada joylashgan va ikki qismdan iborat:
 - ✅ List queries — IN
 - ✅ Null handling — IS NULL
 
+### Murakkab so'rovlar va funksiyalar
+- ✅ Subquery va nested so'rovlar
+- ✅ View va virtual jadvallar
+- ✅ Stored procedure va functionlar
+- ✅ Triggerlar va avtomatik operatsiyalar
+- ✅ Transaction va ACID xususiyatlari
+
 ## 🤝 Hissa qo'shish
-
-Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
-
----
-
-**Loyiha muallifi:**  
-[OktamTurgun](https://github.com/OktamTurgun)
 
 Taklif va tuzatishlar uchun pull request yoki issue qoldirishingiz mumkin.
 
